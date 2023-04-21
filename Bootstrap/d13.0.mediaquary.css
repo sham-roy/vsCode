@@ -1,0 +1,14 @@
+div h1 p{
+    font-size: xx-large;
+    color: crimson;
+    background-color: darkmagenta;
+}
+div p{
+    color: blue;
+}
+@media(min-width:500px) and (max-width:700px){
+    div{
+        background-color: chartreuse;
+    }
+
+}

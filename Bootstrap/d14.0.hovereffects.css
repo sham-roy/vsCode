@@ -1,0 +1,12 @@
+div{
+    width: 100px;
+    height: 100px;
+    margin-left :500px;
+    margin-top: 50px;
+    background-color: blue;
+    transition: 1s;
+}
+
+div:hover{
+    transform: skewY(40px) (50px);
+}

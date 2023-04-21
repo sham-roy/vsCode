@@ -1,0 +1,19 @@
+div{
+    width: 50%;
+    height: 400px;
+    background-color: aqua;
+    animation: anim 2s ease-out 1s 3 ;
+}
+@keyframes anim{
+    from{
+        width: 0%;
+        background-color: rgb(255, 0, 0);
+
+    }
+    to{
+        width: 75%;
+        background-color: rgb(255, 251, 0);
+
+
+    }
+}

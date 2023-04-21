@@ -1,0 +1,9 @@
+Css- cascading style sheet
+------------------------------------------------
+1.inline
+2.internal
+3.external
+
+short cuts
+----------------------------------------------------
+div.c1.c2 - <div class="c1 c2"></div>

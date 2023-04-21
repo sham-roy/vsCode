@@ -1,0 +1,40 @@
+body{
+    height: 2000px;
+}
+.header{
+    background-color: rgb(94,6,138);
+    height: 37.5px;
+    font-size: small;
+}
+.hmar {
+    margin-left: 35%;
+}
+.textz{
+    font-size: 15px;
+}
+.im1{
+    margin-left: -30px;
+}
+.imgsz {
+    height: 500px;
+}
+.carou1 {
+    font-size: 50px;
+    margin-top: -30px;
+}
+.foot{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    position:fixed;
+    top: 610px;
+}
+.vcourse{
+    background: rgb(94,6,138);
+    width: 25%;
+    height: 60px;
+    border-radius: 30px;
+}
+.caromargin{
+    margin-left: -70px;
+}

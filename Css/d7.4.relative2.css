@@ -1,0 +1,33 @@
+.row{
+width: 1000px;
+height: 500px;
+background-color: aqua;
+position: relative;
+top: 50px;
+left: 150px;
+
+}
+.col{
+width: 200px;
+height: 200px;
+/* background-color: blue; */
+position: absolute;
+top: 30px;
+}
+.col4{
+left: 500px;
+background-color:rebeccapurple;
+}
+.col2{
+    left: 750px;
+    background-color: rgb(183, 0, 255);
+}
+.col3{
+left: 250px;
+background-color: brown;
+
+}
+.col1{
+    left: 10px;
+    background-color: crimson;
+}

@@ -1,0 +1,39 @@
+api - application programing interface
+------------------------------------------
+
+http 
+
+     |  header  |  body           |
+
+        secret data        |     data  (json)
+
+types
+------
+GET - ACCESS
+POST - STORE
+PUT - COMPLETE UPDATION
+PATCH - PARTIAL UPDATION
+DELETE - REMOVE DATA
+
+RESPONSE STATUS
+-----------------
+
+4XX - Client side error
+5xx - server side error 
+
+1xx - information 
+2xx - success 
+3xx - redirection
+
+calling API using JS 
+------------------\
+
+AJAX - = Asynchronous JavaScript And XML
+        1. xmlhttps
+        2. fetch 
+
+Asynchronous functions handling in json
+---------------------------------------
+
+promise - resolving    then ()
+        - reject       cathch()

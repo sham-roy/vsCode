@@ -1,0 +1,32 @@
+git and git hub
+-----------------------
+
+git
+---------
+vcm - virsion control system
+scm - software configuration management
+
+
+push - local repository to remote repository - uploding new projects and changes
+clone - remote reprository to local repository - downloading exat copy of projects 
+pull - remote repository to local reprository - downloading changes
+
+push
+-------------------
+1. git init : to initialise git
+2. git add . : to add files to staging area
+!. git status : to know status of file.................
+3. git commit -m "type anything as a message" :
+!. git remote -v : to check file added to remote repository......................
+4. git remote add var1 link : (variable - can be anything (var1,q2))(link - of remote repository)
+5. git push -u var1 master :
+
+clone - open terminal from required folder
+-------------------------
+git clone (paste link) - to download project folder
+
+
+hosting
+------------------
+settings -> pages -> branch (change none to master)
+-> save

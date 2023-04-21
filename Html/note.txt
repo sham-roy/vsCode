@@ -1,0 +1,41 @@
+font awesome
+<script src="https://kit.fontawesome.com/95d1f99e45.js" crossorigin="anonymous"></script>
+
+
+
+html - hypertext markup language
+--------------------------------
+content loading
+version - HTML5 (audio & video supporting tags tags)
+
+
+semantic tags in html----------------------------------------------------------
+----------------------
+header
+main
+aside
+footer
+
+content tags----------------------------------------------------------------------------------
+<video src=""> </video>
+<audio src=""> </audio>
+
+<hr> (for horizontal line)-------------------------------------------------
+
+shortcut-----------------------------------------------------------------
+tag name*number (h1*5)
+
+<!-- inline and block elements -->------------------------------------------------
+
+<h1>1.inline element</h1>
+    <a href="">werty.com</a>
+    <a href="">asdfg.com</a>
+    <a href="">zxcvasdfgwerty.co</a>
+
+<h1>2.block element</h1>
+    <p>ten</p>
+    <h5>five</h5>
+    <p>six</p>
+
+to get spaces (<pre>)--------------------------------
+<pre>hi       helloo<Pre>

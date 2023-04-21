@@ -1,0 +1,39 @@
+/* body {
+    background-color: #e43be4;
+} */
+h3{
+    color: rgb(255, 255, 255);
+    background-color: #b32fce;
+}
+h1{
+    color: rgb(76, 10, 138);
+}
+ul,ol {
+    color: rgb(183, 13, 189);
+}
+div{
+    background-color: #db61db;
+    margin: 0px;
+}
+a{
+    color: rgb(3, 0, 167);
+    padding: 10px;
+}
+table{ 
+    margin: 30px;
+    color: rgb(255, 0, 106);
+}
+tr,th,td {
+    border: 2px black;
+    border-collapse: collapse;
+    height: 5px;
+    width: 100px;
+    text-align: left;
+} 
+/* .i1{
+    height: 150px;
+    width: 200px;
+} */
+p {
+    color: rgb(255, 0, 106);
+}

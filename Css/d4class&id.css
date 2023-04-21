@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    color: rgb(255, 0, 0);
+}
+
+.c1{
+    color: rgb(127, 255, 0);
+}
+#id1{
+    color: rgb(77, 5, 194);
+    text-align: right;
+}
+div{
+    background-color: rgb(15, 7, 7);
+}
+.c2{
+    background-color: rgb(12, 20, 20);
+    text-align: left;
+}

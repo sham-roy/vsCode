@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Playball&display=swap');
+
+.n{
+    font-size: medium;
+    font-family: 'Architects Daughter';
+}
+.m{
+    font-family: 'Playball', cursive;
+}
+div{
+    background-color: blueviolet;
+    height: 500px;
+    width: 450px;
+    border-radius: 1000px;
+    margin-left: 635px;
+    margin-top: 0px;
+
+}

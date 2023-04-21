@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Kaushan+Script&display=swap');
+
+body {
+    background-color: black;
+}
+
+p {
+    text-align: center;
+    color: aqua;
+    margin-top: 50px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+}
+
+div {
+    height: 100px;
+    width: 75px;
+    /* border:1px red solid; */
+}
+
+#a1 {
+    background-color: rgb(74, 173, 165);
+    margin-top: 50px;
+    margin-left: 435px;
+}
+
+#a2 {
+    background-color: rgb(50, 172, 243);
+    margin-top: -100px;
+    margin-left: 511px;
+}
+
+#a3 {
+    background-color: rgb(0, 102, 255);
+    margin-top: -100px;
+    margin-left: 587px;
+
+}
+
+#a4 {
+    background-color: rgb(53, 183, 201);
+    margin-top: -100px;
+    margin-left: 663px;
+
+}
+
+#a5 {
+    background-color: rgb(41, 124, 218);
+    margin-top: -100px;
+    margin-left: 739px;
+
+}
+
+#a6 {
+    background-color: rgb(42, 55, 177);
+    margin-top: 1px;
+    margin-left: 359px;
+
+}
+
+#a7 {
+    background-color: rgb(68, 40, 190);
+    margin-top: -100px;
+    margin-left: 435px;
+
+}
+
+#a8 {
+    background-color: rgb(15, 25, 163);
+    margin-top: -100px;
+    margin-left: 511px;
+
+}
+
+#a9 {
+    background-color: rgb(55, 0, 255);
+    margin-top: -100px;
+    margin-left: 587px;
+
+}
+
+#a10 {
+    background-color: rgb(81, 55, 153);
+    margin-top: -100px;
+    margin-left: 663px;
+
+}
+
+#a11 {
+    background-color: rgb(88, 71, 133);
+    margin-top: -100px;
+    margin-left: 739px;
+
+}
+
+#a12 {
+    background-color: rgb(113, 89, 216);
+    margin-top: -100px;
+    margin-left: 815px;
+}
+
+#a13 {
+    background-color: rgb(78, 19, 133);
+    margin-top: 1px;
+    margin-left: 283px;
+}
+
+#a14 {
+    background-color: rgb(105, 9, 114);
+    margin-top: -100px;
+    margin-left: 359px;
+}
+
+#a15 {
+    background-color: rgb(124, 0, 182);
+    margin-top: -100px;
+    margin-left: 435px;
+}
+
+#a16 {
+    background-color: rgb(68, 24, 109);
+    margin-top: -100px;
+    margin-left: 511px;
+}
+
+#a17 {
+    background-color: rgb(108, 0, 170);
+    margin-top: -100px;
+    margin-left: 587px;
+}
+
+#a18 {
+    background-color: rgb(112, 28, 145);
+    margin-top: -100px;
+    margin-left: 663px;
+}
+
+#a19 {
+    background-color: rgb(51, 6, 216);
+    margin-top: -100px;
+    margin-left: 739px;
+}
+
+#a20 {
+    background-color: rgb(53, 37, 126);
+    margin-top: -100px;
+    margin-left: 815px;
+}
+
+#a21 {
+    background-color: rgb(98, 37, 179);
+    margin-top: -100px;
+    margin-left: 891px;
+}

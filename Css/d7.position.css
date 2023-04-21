@@ -1,0 +1,17 @@
+.col{
+    border: 2px solid black;
+}
+.col1{
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    position: absolute;
+        left: 50%;
+
+}
+.col2{
+    height: 200px;
+    width: 400px;
+    background-color: chartreuse;
+    position: absolute;
+}

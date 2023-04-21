@@ -1,0 +1,41 @@
+Angular - ng v
+---------
+
+npm - node package module
+
+install
+        - npm -g @angular/cli@latest 
+
+project creation
+        - ng new project name
+
+running command 
+        - ng serve --open
+
+Angular technologies
+
+-html
+-css
+-typeScript- strictly typed - transpiling 
+
+number : any
+
+transpiling - browser convert ts code to js while running
+
+npm i
+
+root modules
+      -  root components
+             - sub modules
+
+      -  sub modules
+              -  components
+
+@ : indicates decorators
+        decorators used to store meta data
+                meta data - data inside data
+
+create ne component
+        - ng generate component component_name
+        - ng g c first
+        
